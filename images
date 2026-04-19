@@ -1,11 +1,9 @@
-    0% {background-image: url(/images/Barbershop.jpg);}
-    25% {background-image: url(/images/barbe1.AVIF);}
-    50% {background-image: url(/images/barbe2.AVIF);}
-    75% {background-image: url(/images/barbe3.AVIF);}
-    100% {background-image: url(/images/barbe5.AVIF);}
-
-img src="/images/barbe7.AVIF"
-img src="/images/barbe6.AVIF" 
-img src="/images/barbe4.AVIF" 
-
-
+(/images/barbe1.jpg)
+(/images/barbe2.jpg)
+(/images/barbe3.jpg)
+(/images/barbe4.jpg)
+(/images/barbe5.jpg)
+(/images/barbe6.jpg)
+(/images/barbe7.jpg)
+(/images/barbe8.jpg)
+(/images/barbe9.jpg)
